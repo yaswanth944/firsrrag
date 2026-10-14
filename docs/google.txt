@@ -1,0 +1,335 @@
+Google
+Source: https://en.wikipedia.org/wiki/Google
+
+Google LLC ( , GOO-gəl) is an American multinational technology corporation focused on information technology, online advertising, search engine technology, email, cloud computing, software, quantum computing, e-commerce, consumer electronics, and artificial intelligence (AI). It has been referred to as "the most powerful company in the world" by the BBC, and is one of the world's most valuable brands. Google's parent company Alphabet Inc. has been described as a Big Tech company. 
+Google was founded in 1998 by American computer scientists Larry Page and Sergey Brin. Together, they own about 14% of its publicly listed shares and control 56% of its stockholder voting power through super-voting stock. The company went public via an initial public offering (IPO) in 2004. In 2015, Google was reorganized as a wholly owned subsidiary of Alphabet Inc. Google is Alphabet's largest subsidiary and is a holding company for Alphabet's internet properties and interests. Sundar Pichai was appointed CEO of Google in 2015, replacing Larry Page, who became the CEO of Alphabet. In 2019, Pichai also became the CEO of Alphabet. 
+After the success of its original service, Google Search (often known simply as "Google"), the company has rapidly grown to offer a multitude of products and services. These products address a wide range of use cases, including email (Gmail), navigation and mapping (Waze, Maps, and Earth), cloud computing (Cloud), web navigation (Chrome), video sharing (YouTube), productivity (Workspace), operating systems (Android and ChromeOS), cloud storage (Drive), language translation (Translate), photo storage (Photos), videotelephony (Meet), smart home (Nest), smartphones (Pixel), wearable technology (Pixel Watch and Fitbit), music streaming (YouTube Music), video on demand (YouTube TV), AI (Gemini), machine learning APIs (TensorFlow), AI chips (TPU), and more. Many of these products and services are dominant in their respective industries, as is Google Search. Discontinued Google products include gaming (Stadia), Glass, Google+, Reader, Play Music, Nexus, Hangouts, and Inbox by Gmail. Google's other ventures outside of internet services and consumer electronics include quantum computing (Willow, Google Quantum AI), self-driving cars (Waymo), and transformer models (Google DeepMind).
+Google Search and YouTube are the two most-visited websites worldwide. Google is the largest provider of search engines, mapping and navigation applications, email services, office suites, online video platforms, photo and cloud storage, mobile operating systems, web browsers, machine learning frameworks, and AI virtual assistants in the world as measured by market share. Google was ranked the second most valuable brand by Forbes as of January 2022, and fourth by Interbrand as of February 2022. The company has received criticism involving issues such as privacy concerns, tax avoidance, censorship, search neutrality, antitrust, and abuse of its monopoly position.
+
+
+Search
+
+In June 2000, it was announced that Google would become the default search engine provider for Yahoo!, one of the most popular websites at the time, replacing Inktomi. Google's focus on search differentiated it from competitors like AOL and Yahoo which focused on creating portals and maximizing the time users spent in their walled garden.
+In 2003 google entered into common language as a verb, and it was defined in Merriam-Webster Collegiate Dictionary and the Oxford English Dictionary as: "to use the Google search engine to obtain information on the Internet".
+Google launched its Google News service in 2002, an automated service which summarizes news articles from various websites. Google also hosts Google Books, which allows users to search books in its database and shows limited previews, or the full book when allowed. Google expanded its search services to include shopping (launched originally as Froogle in 2002), finance (launched 2006), and flights (launched 2011). Google Search began presenting AI Overviews in 2024.
+News publishers have argued that Google should have to pay for its use of their content. In 2026 Australia created a law to force Google and other technology companies to pay Australian news sources.
+
+
+Advertising
+
+In 2025, Google generated 73% of its revenues from advertising. This includes three principal methods, namely AdMob, AdSense, and DoubleClick AdExchange.
+Google Adwords was introduced in October 2000; it originally allowed advertisers to display text ads on searches of their choosing. Google charged per thousand ad-views which was similar to how existing advertising markets functioned. This was Google's only advertising stream through 2001. Brin and Page had originally opposed any advertising but as years went by without profit they became more open to opportunities for revenue. Page and Brin insisted that all advertising be relevant to the keywords, and only allowed ads to appear in 15 percent of all searches, which meant that Google was forgoing advertising dollars and placing more restriction of advertisers than they were used to.
+In February 2002, AdWords was augmented with a cost per click model. This was a significant change in advertising models because it rewarded advertisers for making their adds relevant as measured by the click frequency on search terms selected by the advertiser. The prices were set by a Vickrey auction and ads had a syndicated display on many websites rather than websites selected by the advertisers.
+In 2003, AdSense began as a way for Google and third party websites to make money. Keywords from search, emails, and websites were aggregated to select ads for display on the websites. Then the website and Google split the fee from the advertisers.
+In 2007, Google launched "AdSense for Mobile", taking advantage of the emerging mobile advertising market.
+
+
+Corporate affairs
+
+
+Founding
+
+Google began in January 1996 as a research project by Larry Page and Sergey Brin with additional contribution from Scott Hassan. Page and Brin published their research, along with 
+Rajeev Motwani and Terry Winograd, as the PageRank algorithm and Stanford owned the patent. PageRank determines a website's relevance by the pages that linked back to the original site. Page told his ideas to Hassan, who began writing the code to implement Page's ideas. Page and Brin would also use their friend Susan Wojcicki's garage as their office when the search engine was set up in 1998.
+Eventually, they changed the name to Google; the name of the search engine was a misspelling of the word googol, a very large number written 10100 (1 followed by 100 zeros), picked to signify that the search engine was intended to search a large number of websites. 
+Google was initially funded by an August 1998 investment of $100,000 from Andy Bechtolsheim, co-founder of Sun Microsystems. This initial investment served as a motivation to incorporate the company to be able to use the funds. Page and Brin initially approached the nearby David Cheriton for advice. Cheriton had recently sold Granite Systems, the company he co-founded with Andy Bechtolsheim, to Cisco for $220 million. Cheriton arranged a meeting at his home in Palo Alto with Page, Brin, and Bechtolsheim. After a brief meeting which included a demo of the website Cheriton and Bechtolsheim agreed to fund Page and Brin's company approximately $200,000 investment each.
+
+Google received money from two other angel investors in 1998, including Amazon founder Jeff Bezos, and entrepreneur Ram Shriram. Page and Brin had first approached Shriram, who was a venture capitalist, for funding and counsel, and Shriram invested $250,000 in Google in February 1998. Bezos asked Shriram to meet Google's founders and they met six months after Shriram had made his investment. Between these initial investors, friends, and family, Google raised approximately $1,000,000, to fund their original shop in Menlo Park, California. Craig Silverstein, a fellow PhD student at Stanford, was hired as the first employee.
+After some additional small investments through the end of 1998 to early 1999, a new $25 million round of funding was announced on June 7, 1999, with major investors including the venture capital firms Kleiner Perkins and Sequoia Capital.
+
+
+Hiring of Eric Schmidt
+
+In 2001, Google's investors felt the need to have strong internal management, and they agreed to hire Eric Schmidt as the chairman and CEO of Google. Schmidt was proposed by John Doerr from Kleiner Perkins. He had been trying to find a CEO that Page and Brin would accept for several months, but they rejected several candidates because they wanted someone with a similar vision and engineering aptitude. Some investors and employees believed that Brin and Page did not want to bring in an outside CEO. Michael Moritz from Sequoia Capital at one point even threatened to demand that Google repay Sequoia's $12.5m investment if they did not fulfill their promise to hire a chief executive officer, which had been made verbally during investment negotiations. Schmidt was not initially enthusiastic about joining Google either, as the company's full potential had not yet been widely recognized at the time, and as he was occupied with his responsibilities at Novell where he was CEO. As part of him joining, Schmidt agreed to buy $1 million of Google preferred stocks as a way to show his commitment and to provide funds Google needed.
+
+
+Initial public offering
+On August 19, 2004, Google became a public company via an initial public offering. The company opened on the NASDAQ National Market under the five-letter ticker symbol GOOGL with an offering of 19,605,052 shares at a price of $85 per share. The sale of $1.67 billion gave Google a market capitalization of more than $23 billion.
+Google has a dual-class stock structure in which each Class B share gets ten votes compared to each Class A share getting one. Page and Brin believed that the share structure and not publishing quarterly guidance would support a focus on the long term.
+
+
+Acquisitions
+
+Google's advertising revenue was challenged in 2006 when some advertisers declined to purchase display ads. The company leadership was split on how to handle trade-offs between privacy and advertising value. DoubleClick was known in the industry for the value its cookies brought to the advertising market. In 2007, Google agreed to buy DoubleClick for $3.1 billion and completed the acquisition on March 11, 2008. After the acquisition, Google was convinced to support advertisers tracking preferences.
+In May 2012, Google acquired Motorola Mobility for $12.5 billion. This purchase was made in part to help Google gain Motorola's considerable patent portfolio on mobile phones and wireless technologies, to help protect Google in its ongoing patent disputes with other companies, mainly Apple and Microsoft, and to allow it to continue to freely offer Android.
+
+In June 2013, Google acquired Waze for $966 million. While Waze would remain an independent entity, its social features, such as its crowdsourced location platform, were reportedly valuable integrations between Waze and Google Maps, Google's own mapping service. 
+Google announced the launch of a new company, called Calico, on September 19, 2013, to be led by Apple Inc. chairman Arthur Levinson. In the official public statement, Page explained that the "health and well-being" company would focus on "the challenge of ageing and associated diseases".
+On January 26, 2014, Google announced it had agreed to acquire DeepMind Technologies, a privately held AI company from London. Technology news website Recode reported that the company was purchased for $400 million, yet the source of the information was not disclosed. A Google spokesperson declined to comment on the price. In 2016, DeepMind's AlphaGo became the first computer program to defeat a top human pro at the game of Go.
+Google was ranked second behind Apple as the most valuable brand in the world from 2013-2016.
+In May 2022, Google announced that the company had acquired California based, MicroLED display technology development and manufacturing Start-up company Raxium. Raxium is set to join Google's Devices and Services team to aid in the development of micro-optics, monolithic integration, and system integration.
+
+
+Alphabet
+
+On August 10, 2015, Google announced plans to reorganize its various interests as a conglomerate named Alphabet Inc. Google became Alphabet's largest subsidiary and the umbrella company for Alphabet's Internet interests. Upon completion of the restructuring, Sundar Pichai became CEO of Google, replacing Page, who became CEO of Alphabet.
+Between 2018 and 2019, tensions between the company's leadership and its workers escalated as staff protested company decisions on internal sexual harassment, Dragonfly, a censored Chinese search engine, and Project Maven, a military drone artificial intelligence, which had been seen as areas of revenue growth for the company. On October 25, 2018, The New York Times published the exposé, "How Google Protected Andy Rubin, the 'Father of Android'". The company subsequently announced that "48 employees have been fired over the last two years" for sexual misconduct. On November 1, 2018, more than 20,000 Google employees and contractors staged a global walk-out to protest the company's handling of sexual harassment complaints. CEO Sundar Pichai was reported to be in support of the protests. Later in 2019, some workers accused the company of retaliating against internal activists.
+On March 19, 2019, Google announced that it would enter the video game market, launching a cloud gaming platform called Google Stadia. In March 2021, Google reportedly paid $20 million for Ubisoft ports on Google Stadia. Google spent "tens of millions of dollars" on getting major publishers such as Ubisoft and Take-Two to bring some of their biggest games to Stadia.
+In April 2020, due to the COVID-19 pandemic, Google announced several cost-cutting measures. These measures included slowing down hiring for the remainder of 2020, except for a small number of strategic areas, recalibrating the focus and pace of investments in areas like data centers and machines, and non-business essential marketing and travel. Most employees were also working from home due to the COVID-19 pandemic and the success of it even led to Google announcing that they would be permanently converting some of their jobs to work from home.
+The 2020 Google services outages disrupted Google services: one in August that affected Google Drive among others and an outage in December affecting the entire suite of Google applications. All three outages were resolved within hours. In 2021, the Alphabet Workers Union was founded, composed mostly of Google employees.
+In December 2022, Google debuted OSV-Scanner, a Go tool for finding security holes in open source software, which pulls from the largest open source vulnerability database of its kind to defend against supply chain attacks.
+In March 2025, Google agreed to acquire Wiz, a New York-based cybersecurity startup focusing on cloud computing, for US$32 billion. This cash deal would be Google's biggest ever, as well as it currently being the most expensive deal of 2025. Alphabet reportedly tried to close a deal for only $23 billion in 2024, but this fell apart after concerns about regulatory hurdles, among other issues. Wiz, a company located in the U.S. and Israel, was cofounded in 2020 by Assaf Rappaport. The company is backed by a number of Silicon Valley venture capitalists, as well as notably being partnered with Amazon and Microsoft, as listed in their website. Google reportedly said "the deal would help artificial-intelligence companies get better security and use more than one cloud service." 
+In July 2025, the U.S. Department of Defense announced that Google had received a $200 million contract for AI in the military, along with Anthropic, OpenAI, and xAI. In September 2025, federal judge Amit Mehta in the United States ruled that Google will not be required to divest Chrome or the Android operating system; however, the ruling barred Google from having exclusive contracts for Google Search, Chrome, Google Assistant and Gemini app products, and ruled Google must share search data with competitors.
+In March 2026, Google signed an energy pledge at the White House which required them to bear the cost of new electricity generation to power their data centers.
+In September 2026, Google announced it would invest $13 billion over the next two years in Finnish AI infrastructure, technology development, and the company's operations in Finland. Google has signed a letter of intent with Fortum regarding the development of new nuclear power and announced plans to build new data centers in Kajaani, Vaala and Muhos. The choice of locations for the data centers is justified by the cool climate, which allows for reduced energy consumption when cooling facilities that utilize large numbers of computer servers. President Donald Trump criticized the project and stated he "wants them to change their thinking." In October 2026, the Finnish Licensing and Supervision Agency (LVV) called upon Tuike Finland Oy—representing Google—to suspend preparatory activities for the data center projects in Muhos and Kajaani so that the environmental impact assessment could be completed.
+
+
+YouTube
+
+
+Products and services
+
+Google Analytics allows website owners to track where and how people use their website, for example by examining click rates for all the links on a page. Google advertisements can be placed on third-party websites in a two-part program. Google Ads allows advertisers to display their advertisements in the Google content network, through a cost-per-click scheme. The sister service, Google AdSense, allows website owners to display these advertisements on their website and earn money every time ads are clicked. One of the criticisms of this program is the possibility of click fraud, which occurs when a person or automated script clicks on advertisements without being interested in the product, causing the advertiser to pay money to Google unduly. Industry reports in 2006 claimed that approximately 14 to 20 percent of clicks were fraudulent or invalid. Google Search Console (rebranded from Google Webmaster Tools in May 2015) allows webmasters to check the sitemap, crawl rate, and for security issues of their websites, as well as optimize their website's visibility.
+
+
+Generative AI
+Following the success of ChatGPT and concerns that Google was falling behind in the AI race, Google's senior management issued a "code red" and a "directive that all of its most important products—those with more than a billion users—must incorporate generative AI within months". In March 2023, in direct response to the rapid rise of ChatGPT, Google released Bard, a generative AI chatbot. It was replaced by Gemini in March 2024.
+An AI training program for Google employees was also introduced in April 2024. Google has created the text-to-image model Imagen, and the text-to-video model Veo. Google integrated AI Overviews into Google Search, and added an AI mode where the search results page is AI-generated. In 2025, Google announced SynthID Detector, a tool that uses watermarking to identify whether content such as text, images, audio, or video was generated using Google products. In 2023, Google released NotebookLM, an online tool for synthesizing documents using Gemini. In September 2024, it gained attention for its "Audio Overview" feature, which generates podcast-like summaries of documents. Google also developed LearnLM, a family of language models serving as personal AI tutors.
+In June 2026, UK regulators instructed Google to give publishers the ability to choose how their content is used and resurfaced in its AI-generated snippets.
+
+
+Consumer services
+
+
+Web-based services
+
+ 
+Google offers Gmail for email, Google Calendar for time-management and scheduling, Google Maps and Google Earth for mapping, navigation and satellite imagery, Google Drive for cloud storage of files, Google Docs, Sheets and Slides for productivity, Google Photos for photo storage and sharing, Google Keep for note-taking, Google Translate for language translation, Google My Business for managing public business information, Google Classroom for managing assignments and communication in education, and Duo for social interaction. A job search product has also existed since before 2017, Google for Jobs is an enhanced search feature that aggregates listings from job boards and career sites. Google Earth, launched in 2005, allows users to see high-definition satellite pictures from all over the world for free through a client software downloaded to their computers.
+
+
+Social network
+From 2004 to 2019, Google made several attempts at a social network platform. Google+, introduced in 2011, was the largest. Earlier attempts included Orkut, Google Friend Connect, and Google Buzz.
+
+
+Software
+Google develops the Android mobile operating system, as well as its smartwatch, television, car, and Internet of things-enabled smart devices variations. It also develops the Google Chrome web browser, ChromeOS, an operating system based on Chrome, and the AI-powered integrated development environment Google Antigravity.
+
+
+Hardware
+
+In January 2010, Google released Nexus One, the first Android phone under its own brand. It spawned a number of phones and tablets under the "Nexus" branding until its eventual discontinuation in 2016, replaced by a new brand called Pixel. In 2011, the Chromebook was introduced, which runs on ChromeOS. In July 2013, Google introduced the Chromecast dongle, which allows users to stream content from their smartphones to televisions. In June 2014, Google announced Google Cardboard, a simple cardboard viewer that lets the user place their smartphone in a special front compartment to view virtual reality (VR) media. In October 2016, Google announced Daydream View, a lightweight VR viewer which lets the user place their smartphone in the front hinge to view VR media.
+Other hardware products include:
+
+Nest, a series of voice assistant smart speakers that can answer voice queries, play music, find information from apps (calendar, weather etc.), and control third-party smart home appliances (users can tell it to turn on the lights, for example). The Google Nest line includes the original Google Home (later succeeded by the Nest Audio), the Google Home Mini (later succeeded by the Nest Mini), the Google Home Max, the Google Home Hub (later rebranded as the Nest Hub), and the Nest Hub Max.
+Nest Wifi (originally Google Wifi), a connected set of Wi-Fi routers to simplify and extend coverage of home Wi-Fi.
+
+
+Enterprise services
+
+Google Workspace (formerly G Suite until October 2020) is a monthly subscription offering for organizations and businesses to get access to a collection of Google's services, including Gmail, Google Drive and Google Docs, Google Sheets and Google Slides, with additional administrative tools, unique domain names, and 24/7 support. On September 24, 2012, Google launched Google for Entrepreneurs, a largely not-for-profit business incubator providing startups with co-working spaces known as Campuses, with assistance to startup founders that may include workshops, conferences, and mentorships. There are seven Campus locations: Berlin, London, Madrid, Seoul, São Paulo, Tel Aviv, and Warsaw. On March 15, 2016, Google announced the introduction of Google Analytics 360 Suite, "a set of integrated data and marketing analytics products, designed specifically for the needs of enterprise-class marketers" which can be integrated with BigQuery on the Google Cloud Platform. Among other things, the suite is designed to help "enterprise class marketers" "see the complete customer journey", generate "useful insights", and "deliver engaging experiences to the right people". Jack Marshall of The Wall Street Journal wrote that the suite competes with existing marketing cloud offerings by companies including Adobe, Oracle, Salesforce, and IBM.
+
+
+Internet services
+In February 2010, Google announced the Google Fiber project, with experimental plans to build an ultra-high-speed broadband network for 50,000 to 500,000 customers in one or more American cities. Following Google's corporate restructure to make Alphabet Inc. its parent company, Google Fiber was moved to Alphabet's Access division. In April 2015, Google announced Project Fi, a mobile virtual network operator, that combines Wi-Fi and cellular networks from different telecommunication providers in an effort to enable seamless connectivity and fast Internet signal.
+
+
+Financial services
+In August 2023, Google became the first major tech company to join the OpenWallet Foundation, launched earlier in the year, whose goal was creating open-source software for interoperable digital wallets.
+
+
+Finance
+From the financial year of 2015, figures are published for Alphabet Inc. Until 2014, the key trends of Google were as follows (as at the financial year ending December 31):
+
+In the third quarter of 2005, Google reported a 700% increase in profit, largely due to large companies shifting their advertising strategies from newspapers, magazines, and television to the Internet. For the 2006 fiscal year, the company reported $10.492 billion in total advertising revenues and only $112 million in licensing and other revenues. In 2011, 96% of Google's revenue was derived from its advertising programs. Google generated $50 billion in annual revenue for the first time in 2012, generating $38 billion the previous year. In January 2013, then-CEO Larry Page commented, "We ended 2012 with a strong quarter ... Revenues were up 36% year-on-year, and 8% quarter-on-quarter. And we hit $50 billion in revenues for the first time last year – not a bad achievement in just a decade and a half." Google's consolidated revenue for the third quarter of 2013 was reported in mid-October 2013 as $14.89 billion, a 12 percent increase compared to the previous quarter. Google's Internet business was responsible for $10.8 billion of this total, with an increase in the number of users' clicks on advertisements. By January 2014, Google's market capitalization had grown to $397 billion.
+
+
+Tax avoidance strategies
+
+Google uses various tax avoidance strategies. On the list of largest technology companies by revenue, it pays the lowest taxes to the countries of origin of its revenues. Google saved $3.1 billion between 2007 and 2010 in taxes by shuttling non-U.S. profits through Ireland and the Netherlands and then to Bermuda. Such techniques lower its non-U.S. tax rate to 2.3 per cent, while normally the corporate tax rate in, for instance, the UK is 28 per cent. This reportedly sparked a French investigation into Google's transfer pricing practices in 2012.
+In 2020, Google said it had overhauled its controversial global tax structure and consolidated all of its intellectual property holdings back to the U.S. Google Vice-president Matt Brittin testified to the Public Accounts Committee of the UK House of Commons that his UK sales team made no sales and hence owed no sales taxes to the UK. In January 2016, Google reached a settlement with the UK to pay £130m in back taxes plus higher taxes in future. In 2017, Google channeled $22.7 billion from the Netherlands to Bermuda to reduce its tax bill.
+
+
+Culture
+
+
+Don't be evil
+Google's reluctance to hire a CEO was one manifestation of a cultural aversion to typical corporate America. In the design of a mission statement employees felt like many ideas were cliche. The team summarized what they really thought with Don't be evil. This persisted as the thesis for their code of conduct until 2018 when it was relegated to the final line of the ethics handbook.
+Google's mission statement, from the outset, was "to organize the world's information and make it universally accessible and useful".
+
+
+Logo
+
+The original Google logo was designed by Sergey Brin. Since 1998, Google has been designing special, temporary alternate logos to place on their homepage intended to celebrate holidays, events, achievements and people. The first Google Doodle was in honor of the Burning Man Festival of 1998. The doodle was designed by Larry Page and Sergey Brin to notify users of their absence in case the servers crashed. Subsequent Google Doodles were designed by an outside contractor, until Larry and Sergey asked then-intern Dennis Hwang to design a logo for Bastille Day in 2000. From that point onward, Doodles have been organized and created by a team of employees termed "Doodlers". These are sometimes used to promote Google's hoaxes.
+
+
+Workplace
+
+On Fortune magazine's list of the best companies to work for, Google ranked first in 2007, 2008 and 2012, and fourth in 2009 and 2010. Google was also nominated in 2010 to be the world's most attractive employer to graduating students in the Universum Communications talent attraction index.
+Google's 2020 diversity report states that 32 percent of its workforce are women and 68 percent are men, with the ethnicity of its workforce being predominantly white (51.7%) and Asian (41.9%). Within tech roles, 23.6 percent were women; and 26.7 percent of leadership roles were held by women. In addition to its 100,000+ full-time employees, Google used about 121,000 temporary workers and contractors, as of March 2019. Google's employees are hired based on a hierarchical system. Employees are split into six hierarchies based on experience and can range "from entry-level data center workers at level one to managers and experienced engineers at level six". 
+In 2005, articles in The New York Times and other sources began suggesting that Google had lost its anti-corporate, no evil philosophy. In an effort to maintain the company's unique culture, Google designated a Chief Culture Officer whose purpose was to develop and maintain the culture and work on ways to keep true to the core values that the company was founded on. Google has also faced allegations of sexism and ageism from former employees. In 2013, a class action against several Silicon Valley companies, including Google, was filed for alleged "no cold call" agreements which restrained the recruitment of high-tech employees. In a class action lawsuit filed on January 8, 2018, multiple employees and job applicants alleged Google discriminated against people with actual or perceived "conservative political views", "male gender" or "Caucasian or Asian race".
+On January 25, 2020, the formation of an international workers union of Google employees, Alpha Global, was announced. The coalition is made up of "13 different unions representing workers in 10 countries, including the United States, [the] United Kingdom, and Switzerland". The group is affiliated with the UNI Global Union, which represents nearly 20 million international workers from various unions and federations. The formation of the union is in response to persistent allegations of mistreatment of Google employees and a toxic workplace culture. Google had previously been accused of surveilling and firing employees who were suspected of organizing a workers union. In 2021, court documents revealed that between 2018 and 2020, Google ran an anti-union campaign called Project Vivian to "convince them (employees) that unions suck". In February 2025, Google dropped their commitment to make "diversity, equity, and inclusion [DEI] part of everything we do" from their annual investor report. This action followed Meta, Amazon, Pepsi, McDonald's, Walmart, and others who all have rolled back their DEI programmes.
+
+
+20% Time
+As a motivation technique, Google uses a policy known as Innovation Time Off, where Google engineers are encouraged to spend 20% of their work time on projects that interest them. Some of Google's services, such as Gmail, Google News, Orkut, and AdSense, originated from these independent endeavors. Google employee, Marissa Mayer, stated that half of new product in Q3 and Q4 of 2005 originated from the Innovation Time Off.
+
+
+Real estate
+
+In March 1999, the company moved its offices to Palo Alto, California.
+In 2003, after outgrowing two other locations, the company leased an office complex from Silicon Graphics, at 1600 Amphitheatre Parkway in Mountain View, California. The complex became known as the Googleplex, a play on the word googolplex. Three years later, Google bought the property from SGI for $319 million.
+
+Google's Global Offices sum a total of 86 locations worldwide, with 32 offices in North America, three of them in Canada and 29 in the United States, California being the state with the most Google's offices with 9 in total including the Googleplex. Google counts 6 offices in the Latin America region and 24 in Europe, 3 of them in United Kingdom. The Asia-Pacific region counts with 26 offices principally five in India and three in Australia, and three in China, while the Africa and Middle East region counts five offices.
+
+In 2006, Google moved into about 300,000 square feet (27,900 m2) of office space at 111 Eighth Avenue in Manhattan, New York City. The office houses its largest advertising sales team. In 2010, Google bought the building housing the headquarters, in a deal that valued the property at around $1.9 billion. In March 2018, Google's parent company Alphabet bought the nearby Chelsea Market building for $2.4 billion. The sale is touted as one of the most expensive real estate transactions for a single building in the history of New York. In November 2018, Google announced its plan to expand its New York City office to a capacity of 12,000 employees. The same December, it was announced that a $1 billion, 1,700,000-square-foot (160,000 m2) headquarters for Google would be built in Manhattan's Hudson Square neighborhood. Called Google Hudson Square, the new campus is projected to more than double the number of Google employees working in New York City.
+By late 2006, Google established a new headquarters for its AdWords division in Ann Arbor, Michigan. In November 2006, Google opened offices on Carnegie Mellon's campus in Pittsburgh, focusing on shopping-related advertisement coding and smartphone applications and programs. Other office locations in the U.S. include Atlanta; Austin; Boulder, Colorado; Cambridge, Massachusetts; San Francisco; Seattle and Kirkland, Washington; Birmingham, Michigan; Reston, Virginia, Washington, D.C., and Madison, Wisconsin.
+
+It also has product research and development operations in cities around the world, namely Sydney (birthplace location of Google Maps) and London (part of Android development). In November 2013, Google announced plans for a new London headquarter, a 1 million square foot office able to accommodate 4,500 employees. Recognized as one of the biggest ever commercial property acquisitions at the time of the deal's announcement in January, Google submitted plans for the new headquarter to the Camden Council in June 2017. 
+In May 2015, Google announced its intention to create its own campus in Hyderabad, India. The new campus, reported to be the company's largest outside the United States, will accommodate 13,000 employees. In September 2025 Google opened their £735m AI Centre in Waltham Cross, Hertfordshire and announced their plans for £5 bn investment in AI research, in the same month that Alphabet reached market capitalisation of $3 trillion.
+
+
+North America
+
+
+Latin America
+
+
+Europe
+
+
+Asia–Pacific
+
+
+Africa and the Middle East
+
+
+Philanthropy
+
+In 2004, Google formed the not-for-profit philanthropic Google.org, with a start-up fund of $1 billion. The mission of the organization is to create awareness about climate change, global public health, and global poverty. One of its first projects was to develop a viable plug-in hybrid electric vehicle that can attain 100 miles per gallon. Google hired Larry Brilliant as the program's executive director in 2004 and Megan Smith has since replaced him as director.
+In March 2007, in partnership with the Mathematical Sciences Research Institute (MSRI), Google hosted the first Julia Robinson Mathematics Festival at its headquarters in Mountain View. In 2011, Google donated €1 million to International Mathematical Olympiad to support the next five annual International Mathematical Olympiads (2011–2015). In July 2012, Google launched a "Legalize Love" campaign in support of gay rights.
+In 2008, Google announced its "project 10100", which accepted ideas for how to help the community and then allowed Google users to vote on their favorites. After two years of no update, during which many wondered what had happened to the program, Google revealed the winners of the project, giving a total of ten million dollars to various ideas ranging from non-profit organizations that promote education to a website that intends to make all legal documents public and online. Responding to the humanitarian crisis after the 2022 Russian invasion of Ukraine, Google announced a $15 million donation to support Ukrainian citizens. The company also decided to transform its office in Warsaw into a help center for refugees. Also in February 2022, Google announced a $100 million fund to expand skills training and job placement for low-income Americans, in conjunction with non-profits Year Up, Social Finance, and Merit America.
+
+
+Lobbying and political influence
+Google ranked second in corporate lobbying expenditures in 2012 and fifth in 2013.
+
+
+Environment
+In October 2006, the company announced plans to install thousands of solar panels on its Mountain View campus to provide up to 1.6 Megawatt of electricity, enough to satisfy approximately 30% of the campus' energy needs. The system is the largest rooftop photovoltaic power station constructed on a U.S. corporate campus and one of the largest on any corporate site in the world. Since 2007, Google has aimed for carbon neutrality in regard to its operations. In spring 2009, Google hired a herd of 200 goats for a week from California Grazing to mow their lawn. It was apparently more eco-friendly.
+Google disclosed in September 2011 that it "continuously uses enough electricity to power 200,000 homes", almost 260 million watts or about a quarter of the output of a nuclear power plant. Total carbon emissions for 2010 were just under 1.5 million metric tons, mostly due to fossil fuels that provide electricity for the data centers. Google said that 25 percent of its energy was supplied by renewable fuels in 2010. An average search uses only 0.3 watt-hours of electricity, so all global searches are only 12.5 million watts or 5% of the total electricity consumption by Google.
+In 2010, Google Energy made its first investment in a renewable energy project, putting $38.8 million into two wind farms in North Dakota. The company announced the two locations will generate 169.5 megawatts of power, enough to supply 55,000 homes. In February 2010, the Federal Energy Regulatory Commission granted Google an authorization to buy and sell energy at market rates. The corporation exercised this authorization in September 2013 when it announced it would purchase all the electricity produced by the not-yet-built 240-megawatt Happy Hereford wind farm. In July 2010, Google signed an agreement with an Iowa wind farm to buy 114 megawatts of power for 20 years.
+In December 2016, Google announced that—starting in 2017—it would purchase enough renewable energy to match 100% of the energy usage of its data centers and offices. The commitment will make Google "the world's largest corporate buyer of renewable power, with commitments reaching 2.6 gigawatts (2,600 megawatts) of wind and solar energy". In November 2017, Google bought 536 megawatts of wind power. The purchase made the firm reach 100% renewable energy. The wind energy comes from two power plants in South Dakota, one in Iowa and one in Oklahoma. In September 2019, Google's chief executive announced plans for a $2 billion wind and solar investment, the biggest renewable energy deal in corporate history. This will grow their green energy profile by 40%, giving them an extra 1.6 gigawatt of clean energy, the company said.
+In September 2020, Google announced it had retroactively offset all of its carbon emissions since the company's foundation in 1998. It also stated that it is committed to operating its data centers and offices using only carbon-free energy by 2030. In October 2020, the company pledged to make the packaging for its hardware products 100% plastic-free and 100% recyclable by 2025. It also said that all its final assembly manufacturing sites will achieve a UL 2799 Zero Waste to Landfill certification by 2022 by ensuring that the vast majority of waste from the manufacturing process is recycled instead of ending up in a landfill. In 2023 Google consumed 24 TWh of electricity, more than countries such as Iceland, Ghana, the Dominican Republic, or Tunisia.
+
+
+Climate change denial and misinformation
+Google donates to climate change denial political groups including the State Policy Network and the Competitive Enterprise Institute. The company also actively funds and profits from climate disinformation by monetizing ad spaces on most of the largest climate disinformation sites. Google continued to monetize and profit from sites propagating climate disinformation even after the company updated their policy to prohibit placing their ads on similar sites.
+
+
+Litigation
+
+
+Data centers
+
+Google has data centers in North and South America, Asia, and Europe. There is no official data on the number of servers in Google data centers; however, research and advisory firm Gartner estimated in a July 2016 report that Google at the time had 2.5 million servers. Traditionally, Google relied on parallel computing on commodity hardware like mainstream x86 computers (similar to home PCs) to keep costs per query low. In 2005, it started developing its own designs, which were only revealed in 2009.
+Google has built its own private submarine communications cables. The first cable, named Curie, connects California with Chile and was completed on November 15, 2019. The second fully Google-owned undersea cable, named Dunant, connects the United States with France and is planned to begin operation in 2020. Google's third subsea cable, Equiano, will connect Lisbon (Portugal) with Lagos (Nigeria) and Cape Town (South Africa). The company's fourth cable, named Grace Hopper, connects landing points in New York (US), Bude (UK) and Bilbao (Spain), and is expected to become operational in 2022.
+In early May 2023, Google announced its plans to build two additional data centers in Ohio. These centers, which will be built in Columbus and Lancaster, will power up the company's tools, including AI technology. The two new locations, together with the existing data center near Columbus, will bring Google's total investment in Ohio to more than $2 billion.
+
+
+Criticism and controversies
+
+Google has had criticism over issues such as aggressive tax avoidance, search neutrality, copyright, censorship of search results and content, and privacy. Other criticisms are alleged misuse and manipulation of search results, its use of other people's intellectual property, concerns that its compilation of data may violate Internet privacy, and the energy consumption of its servers, as well as concerns over traditional business issues such as monopoly, restraint of trade, anti-competitive practices, and patent infringement.
+
+
+Political controversies
+
+
+United States
+In a 2022 National Labor Relations Board ruling, court documents suggested that Google sponsored a secretive project—Project Vivian—to counsel its employees and to discourage them from forming unions.
+
+
+Brazil
+On May 1, 2023, Google placed an ad against the Brazilian Congressional Bill No. 2630, an anti-disinformation law that was about to be approved, on its search homepage in Brazil, calling on its users to ask congressional representatives to oppose the legislation. The country's government and judiciary accused the company of undue interference in the congressional debate, saying it could amount to abuse of economic power and ordering the company to change the ad within two hours of notification or face fines of R$1 million (2023) (US$185,528.76) per non-compliance hour. The company then promptly removed the ad.
+
+
+Israeli–Palestinian conflict
+
+Google has a US$1.2 billion artificial intelligence and surveillance contract with the Israeli military known as Project Nimbus. According to Google employees, the Israeli military could use this technology to expand its surveillance of Palestinians living in the occupied territories. Google relocated an outspoken employee overseas, and the employee claimed it was a "retaliation for publicly criticizing the contract". Other Palestinian employees have described an "institutionalised bias" within the company.
+In 2021, Google and Amazon engaged in negotiations for a substantial cloud computing agreement valued at $1.2 billion, during which Israel insisted on the inclusion of a confidential code referred to as the "blink mechanism". This stipulation compelled Google and Amazon to essentially disregard legal responsibilities in various nations. Israel expressed apprehension that the data transferred to the cloud services of these global corporations might be accessible to foreign law enforcement agencies. As per documents disclosed to The Guardian, both Google and Amazon consented to the blink mechanism in order to finalize the profitable agreement.
+
+
+Monopoly
+Google reaches market domination of the global web search engine market with around 90% market share. The economic moat includes web browser defaults and friction in customer switching. Google reportedly paid Apple $22 billion in 2022 to maintain its position as the default search engine on Safari. It marks one of the largest payments between two tech giants in recent years.
+
+
+European Union
+
+On June 27, 2017, the company received a record fine of €2.42 billion from the European Union (EU) for "promoting its own shopping comparison service at the top of search results". On July 18, 2018, the European Commissioner for Competition fined Google €4.34 billion for breaching European Union competition law. The abuse of dominants position has been referred to as Google's constraint applied to Android device manufacturers and network operators to ensure that traffic on Android devices goes to the Google search engine. On October 9, 2018, Google confirmed that it had appealed the fine to the General Court of the EU.
+On March 20, 2019, the European Commission imposed a €1.49 billion ($1.69 billion) fine on Google for preventing rivals from being able to "compete and innovate fairly" in the online advertising market. EU competition commissioner Margrethe Vestager said Google had violated EU antitrust rules by "imposing anti-competitive contractual restrictions on third-party websites" that required them to exclude search results from Google's rivals. On September 14, 2022, Google lost the appeal of a €4.125 billion (£3.5 billion) fine, which was ruled to be paid after it was proved by the European Commission that Google forced Android phone-makers to carry Google's search and web browser apps. Since the initial accusations, Google has changed its policy.
+On July 2, 2026, the Court of Justice of the European Union dismissed Google's appeal, upholding the fine of around €4.1 billion for abusing its dominant position in relation to the Android operating system.
+In March 2024, a former Google software engineer and Chinese national named Linwei Ding was accused of stealing confidential artificial intelligence information from the company and handing it to Chinese corporations. Ding had allegedly stolen over 500 files from the company over the course of 5 years, having been hired in 2019. Upon discovering Ding had been in contact with Chinese state-owned companies, Google notified the FBI, who carried on the investigation of the data breach. On September 10, 2024, Europe's top court imposed a €2.4 billion fine on Google for abusing its dominance in the shopping comparison market, marking the conclusion of a case that began in 2009 with a complaint from British firm Foundem.
+On September 18, 2024, Alphabet's Google won a €1.49 billion ($1.7 billion) antitrust fine from the EU, while Qualcomm's efforts to repeal a penalty were unsuccessful. The General Court agreed with many of the European Commission's findings but annulled the Google fine, stating that the Commission failed to consider all relevant factors and did not demonstrate harm to innovation or consumers. Google noted that it had already changed its contract practices in 2016. Meanwhile, Qualcomm saw its fine reduced slightly but failed to overturn the ruling regarding its predatory pricing against Icera. Both companies have options to appeal further. On September 5, 2025, the European Commission fined Google €2.95 billion ($3.47 billion), for breaching EU antitrust rules. Regulators say Google abused its dominance by giving preferential treatment to its ad exchange within its publisher ad server and ad-buying tools.
+In late July, the European Union fined Google 890 million euros ($1 billion) for violating digital antitrust regulations by favoring its own services and apps on Google Play and its search engine to the detriment of competitors.
+
+
+United States
+After U.S. Congressional hearings in July 2020, and a report from the U.S. House of Representatives' Antitrust Subcommittee released in early October, the U.S. Department of Justice filed an antitrust lawsuit against Google on October 20, 2020, asserting that it has illegally maintained its monopoly position in web search and search advertising. The lawsuit alleged that Google engaged in anticompetitive behavior by paying Apple between $8 billion and $12 billion to be the default search engine on iPhones. Later that month, both Facebook and Alphabet agreed to "cooperate and assist one another" in the face of investigation into their online advertising practices. Another suit was brought against Google in 2023 for illegally monopolizing the advertising technology market. In August 2024, District of Columbia U.S. District Court Judge Amit Mehta ruled that Google held a monopoly in online search and text advertising in violation of Section 2 of the Sherman Antitrust Act.
+On October 8, 2024, The U.S. government suggested it could request Google to divest parts of its business, such as the Chrome browser and Android, due to its alleged monopoly in online search. The Justice Department aimed to limit Google's growing dominance in areas like AI. Google, which intended to appeal, argued that the proposals were too extreme, while also dealing with other antitrust cases involving its app store and advertising operations. In November 2024, the Justice Department proposed major changes to curb Google's online search monopoly, including forcing the company to sell its Chrome browser, share search data with competitors, and end exclusive agreements that make Google the default search engine on devices like iPhones. The DoJ also sought a ban on Google re-entering the browser market for five years and restrictions on its investments in rival search or AI technologies. Google called these proposals excessive and harmful to consumers, pledging to appeal. A trial on the case was scheduled for April 2025, though the incoming administration and new DoJ leadership could potentially alter the course of the proceedings.
+In September 2024, Competition and Markets Authority (CMA) provisionally found that Google engaged in anti-competitive practices in the online advertising technology market, potentially harming thousands of UK publishers and advertisers. The investigation claimed Google used its market power to prevent rivals from competing fairly, affecting billions spent on digital ads. Google rejected the findings as flawed, stating that its ad tech benefits businesses. If found guilty, Google could face penalties of up to 10% of its global turnover. Similar investigations are ongoing in the U.S. and EU, where regulators have suggested that Google may need to sell part of its ad-tech business. In the advertising technology case in the U.S., a judge ruled that Google had an illegal monopoly and required changes to Google's practices to alleviate the issues but rejected the Justice Department's request that Google be broken up.
+
+
+Gender discrimination lawsuit
+In 2017, three women sued Google, accusing the company of violating California's Equal Pay Act by underpaying its female employees. The lawsuit cited the wage gap was around $17,000 and that Google locked women into lower career tracks, leading to smaller salaries and bonuses. In June 2022, Google agreed to pay a $118 million settlement to 15,550 female employees working in California since 2013. As a part of the settlement, Google also agreed to hire a third party to analyze its hiring and compensation practices.
+
+
+Censorship
+
+According to Ryan Gallagher of The Intercept in August 2018, Google was developing for the People's Republic of China a censored version of its search engine (known as Dragonfly) "that will blacklist websites and search terms about human rights, democracy, religion, and peaceful protest". Google was grilled at a Senate Committee on Commerce, Science, and Transportation hearing on the project one month later. The project was canceled in December following the backlash it garnered both externally and internally within the company.
+
+
+Data loss
+In May 2024, a misconfiguration in Google Cloud led to the accidental deletion of UniSuper's $135 billion Australian pension fund account, affecting over half a million members who were unable to access their accounts for a week. The outage, attributed to a cloud service error and not a cyberattack, prompted a joint apology from UniSuper and Google Cloud executives, who assured members that no personal data was compromised and restoration efforts were underway.
+
+
+Data privacy
+
+On October 8, 2018, a class action lawsuit was filed against Google and Alphabet due to "non-public" Google+ account data being exposed as a result of a bug that allowed app developers to gain access to the private information of users. The litigation was settled in July 2020 for $7.5 million with a payout to claimants of at least $5 each, with a maximum of $12 each. On January 21, 2019, French data regulator CNIL imposed a record €50 million fine on Google for breaching the European Union's General Data Protection Regulation. The judgment claimed Google had failed to sufficiently inform users of its methods for collecting data to personalize advertising. Google issued a statement saying it was "deeply committed" to transparency and was "studying the decision" before determining its response. In November 2019, the Office for Civil Rights of the Department of Health and Human Services began investigation into Project Nightingale, to assess whether the "mass collection of individuals' medical records" complied with the Health Insurance Portability and Accountability Act. According to The Wall Street Journal, Google secretively began the project in 2018, with St. Louis-based healthcare company Ascension.
+In 2019, a hub for critics of Google dedicated to abstaining from using Google products coalesced in the Reddit online community /r/degoogle. The DeGoogle grassroots campaign continues to grow as privacy activists highlight information about Google products, and the associated incursion on personal privacy rights by the company. 
+In early June 2020, a $5 billion class-action lawsuit was filed against Google by a group of consumers, alleging that Chrome's Incognito browsing mode still collects their user history. The lawsuit became known in March 2021 when a federal judge denied Google's request to dismiss the case, ruling that they must face the group's charges. Reuters reported that the lawsuit alleged that Google's CEO Sundar Pichai sought to keep the users unaware of this issue. 
+In April 2024, it was announced that Google agreed to settle this lawsuit. Under the terms of the settlement Google agreed to destroy billions of data records to settle a lawsuit claiming it secretly tracked the internet use of people who thought they were browsing privately. On January 6, 2022, France's data privacy regulatory body CNIL fined Alphabet's Google 150 million euros (US$169 million) for not allowing its Internet users an easy refusal of cookies along with Facebook.
+In August 2024, Google sent an email to users informing them of its legal obligation to disclose certain confidential information to U.S. government authorities. The company stated that when it receives valid requests from government agencies to produce documents without redacting confidential customer information, it may produce such documents even if they are confidential to users; however, it will request confidential treatment of such information from the government. In January 2025, U.S. federal judge Richard Seeborg rejected Google's motion to dismiss a class-action lawsuit. The lawsuit claims Google collected data from users who had specifically opted out of tracking. In September 2025, a federal jury decided that Google must pay $425 million. Google said it would appeal the decision.
+
+
+Geolocation
+Google has been criticized for continuing to collect location data from users who disabled location-sharing settings. In 2020, the FBI used a geofence warrant to request data from Google about Android devices near the Seattle Police Officers Guild building following an arson attempt during Black Lives Matter protests. Google provided anonymized location data from devices in the area, which raised privacy concerns due to the potential inclusion of unrelated protesters.
+
+
+Copyright infringement
+On March 20, 2024, Google was fined approximately $270 million by French regulators for using content from news outlets in France without proper disclosure to train its AI, Bard, now renamed Gemini, violating a previous commitment to negotiate content use transparently and fairly.
+
+
+U.S. government contracts
+Following media reports about PRISM, the NSA's massive electronic surveillance program, in June 2013, several technology companies were identified as participants, including Google. According to unnamed sources, Google joined the PRISM program in 2009. Google has worked with the U.S. Department of Defense (DoD) on drone software through the 2017 Project Maven that could be used to improve the accuracy of drone strikes. In April 2018, thousands of Google employees, including senior engineers, signed a letter urging Google CEO Sundar Pichai to end this controversial contract with the Pentagon. Google ultimately decided not to renew this DoD contract, which was set to expire in 2019. In 2022 Google shared a $9 billion contract from the Pentagon for cloud computing with Amazon, Microsoft, and Oracle.
+
+
+Google Nest hidden microphone incident
+
+In February 2019, a privacy incident involving the Google Nest Guard system went public. The controversy stemmed from the fact that Nest Guard, a security device that was part of the Nest Secure system, contained a hidden microphone that was not disclosed in any product specifications. It resulted in a public relations failure.
+
+
+See also
+Google ATAP – Skunkworks team and in-house technology incubator
+Googlization – NeologismPages displaying short descriptions with no spaces
+Outline of Google – American multinational tech corporation
+Google Blogger – American online content management system
+Tensor Processing Unit
+
+
+Notes
+
+
+References
+
+
+Further reading
+Marcum, Deanna, and Roger C. Schonfeld. Along Came Google: A History of Library Digitization (Princeton University Press, 2023) online book review
+Saylor, Michael (2012). The Mobile Wave: How Mobile Intelligence Will Change Everything. Perseus Books/Vanguard Press. ISBN 978-1-59315-720-3.
+Vaidhyanathan, Siya (2011). The Googlization of Everything: (And Why We Should Worry) (Updated ed.). Berkeley, Calif.: University of California Press. ISBN 978-0-520-94869-3. JSTOR 10.1525/j.ctt1pn9z8. OCLC 779828585.
+Yeo, ShinJoung (2023). Behind the Search Box: Google and the Global Internet Industry. U of Illinois Press. ISBN 0252087127. JSTOR 10.5406/jj.4116455.
+
+
+External links
+
+Official website 
+Official blog The Keyword
+Business data for Google, Inc.:
